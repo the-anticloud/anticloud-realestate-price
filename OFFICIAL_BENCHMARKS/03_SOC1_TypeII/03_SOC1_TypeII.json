@@ -1,0 +1,21 @@
+{
+ "framework": "03_SOC1_TypeII",
+ "title": "AICPA SSAE 18 AT-C Section 320 (financial reporting controls)",
+ "project": "REALESTATE_PRICE",
+ "basis": [
+  {
+   "check": "08_soc2_type2",
+   "status": "PASS",
+   "observed": "9/9 controls evidenced (100.0%)"
+  },
+  {
+   "check": "05_git_health",
+   "status": "PASS",
+   "observed": "head=a347a648cd9b80c11235923586b0a13747740dfc commits=1 clea"
+  }
+ ],
+ "verdict": "CONTROLS EVIDENCED \u2014 all basis checks PASS",
+ "pax_provenance": "Run ID loiskleinner/pax-benchmark-runner v3, 2026-10-02, Kaggle T4 x2 (2x 16GB VRAM), Ubuntu 22.04, Python 3.12. These are PAX L5 Narrow L2 General 27B model-level results \u2014 shared model component, not this project's verdict.",
+ "bench_sha3": "4ce26c8ff2d76295d5a8593de2d38be67e640361b907a610e96c2d43daec03f7",
+ "register_sha3": "5f1f6241f7b81f698d34411de3b5329409a3db0cc4720c9357c8afbf3ae0971c"
+}

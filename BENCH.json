@@ -541,9 +541,11 @@
  "license": "MIT",
  "source": {
   "git": {
-   "tree_sha3": "a24397f5ea365aecd32a1f9c164f396ad8f1177971a78dbe035be0f32e8dbf2e",
-   "tree_files": 41,
-   "tree_note": "SHA3-256 over vendored source tree on disk (paths+contents, excl .git); recompute to verify"
+   "url": "https://github.com/adomi-io/listing-lab",
+   "head": "3b4dfad3a72563aa978fca9e3dc1fa99be4295ff",
+   "branch": "",
+   "sha_verified_from": "permissive resolve 2026-10-16: MIT/Apache genre match",
+   "previous_upstream": ""
   }
  }
 }

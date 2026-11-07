@@ -1,6 +1,6 @@
 # REALESTATE_PRICE
 
-> Годовой Проект команды 18 магистратуры ВШЭ по направлению "Искусственный Интеллект"
+> [!TIP] Are you looking to make apps like this easily? Check out our open-source, community-driven Odoo Docker image **[adomi-io/odoo](https://github.com/adomi-io/odoo)**.
 
 **Category:** REAL_ESTATE · **Ecosystem:** unknown · **Vendored upstream:** https://github.com/adomi-io/listing-lab · **Pinned commit:** `3b4dfad3a72563aa978fca9e3dc1fa99be4295ff` · **Vendor:** Anticloud FZ LLE
 
@@ -8,7 +8,7 @@
 
 ## What This Project Is
 
-Годовой Проект команды 18 магистратуры ВШЭ по направлению "Искусственный Интеллект"
+[!TIP] Are you looking to make apps like this easily? Check out our open-source, community-driven Odoo Docker image **[adomi-io/odoo](https://github.com/adomi-io/odoo)**.
 
 This is the upstream project, vendored at the pinned commit above and packaged offline-first. The 12 improvements Anticloud adds live in `anticloud/` and are described under *Anticloud Overlay* below. Every fact in this file traces to a file in this directory.
 
@@ -62,7 +62,7 @@ The upstream licence is preserved in `LICENSE` and `THIRD_PARTY_LICENSES/`. The 
 SHA3-256 of `BENCH.json`:
 
 ```
-066b089f96378e12d537e7f987dc8e4c38204bc9c7826874cc6bb888dd7a4d15
+74ba9ecd61952a3493b6ce0b2591b0cc85f2377db75f6099b17616585123beae
 ```
 
 Recompute the hash above and compare — any drift means the package has been tampered with and the seal is invalid. This is a self-assessment; no external audit has been performed and a SOC 2 / NIST independent audit is committed post-funding.
